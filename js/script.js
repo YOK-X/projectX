@@ -9,7 +9,8 @@ let incr = 10,
 console.log(incr);
 console.log(decr);
 
-
+const isChecked = true,
+      isClose = true;
 
 
 //alert('Hello');
